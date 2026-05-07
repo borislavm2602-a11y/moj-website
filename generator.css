@@ -1,0 +1,9 @@
+.kartica {
+    padding: 0.5rem;
+    border: 2px solid black;
+    width: 30%;
+    margin: auto;
+    background-color: rgb(128, 128, 208);
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+};
